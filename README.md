@@ -1,2 +1,2 @@
-#CREA TIVO NUBE
+#CREATIVO NUBE
 alura-challenge code
